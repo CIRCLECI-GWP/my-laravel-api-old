@@ -1,3 +1,23 @@
+<p align="center"><img src="https://avatars3.githubusercontent.com/u/59034516"></p>
+
+## Details
+
+This repo is built following a tutorial published on CircleCI blog under the CircleCI Guest Writer Program.
+
+- Blog post: [Build a CI powered RESTful API with Laravel](https://circleci.com/blog/build-a-ci-powered-restful-api-with-laravel/)
+- Author's GitHub profile: @coderonfleek
+
+### About CircleCI Guest Writer Program
+
+Join a team of freelance writers and write about your favorite technology topics for the CircleCI blog.
+
+Read more [here](https://circle.ci/3ahQxfu).
+
+Repo built by @NdagiStanley as part of the review process of the blog post. 
+
+---
+The following part of this README was automatically generated.
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
